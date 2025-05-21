@@ -44,7 +44,7 @@ Given various **system attributes**—like software versions, hardware specs, pr
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - Source: [Kaggle Malware Prediction Dataset](https://www.kaggle.com/competitions/System-Threat-Forecaster)
 - Rows: 99,835
@@ -53,7 +53,7 @@ Given various **system attributes**—like software versions, hardware specs, pr
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python, NumPy, Pandas
 - Scikit-learn
@@ -63,7 +63,7 @@ Given various **system attributes**—like software versions, hardware specs, pr
 
 ---
 
-## 📚 Key Learnings
+## Key Learnings
 
 - Handling high-dimensional, balanced, and noisy telemetry data
 - Selecting encoding strategies based on feature type
