@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is based on a Kaggle competition where the goal is to **predict the probability of a Windows machine being infected by malware**, using system telemetry data collected by antivirus software. The dataset contains anonymized system configuration properties and corresponding malware infection labels.
+This project is based on a Kaggle competition where the goal is to **predict the probability of a Windows machine being infected by malware**, using system telemetry data. The dataset contains anonymized system configuration properties and corresponding malware infection labels.
 
 ---
 
